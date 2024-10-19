@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(90deg, rgba(214,128,183,1) 0%, rgba(212,179,221,1) 96%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    color: rgb(37, 37, 56);
+    font-size: 48px;
+}
